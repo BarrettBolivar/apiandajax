@@ -1,0 +1,17 @@
+#main {
+    display:inline-block;
+    width: 900px;
+}
+#pokedex {
+    display:inline-block;
+    vertical-align: top;
+    height: 500px;
+    width: 300px;
+    border: 15px solid red;
+    padding: 50px;
+    text-align: center;
+    background-color: aqua;
+}
+#pokedex h1 {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
